@@ -2,8 +2,8 @@ import streamlit;
 
 streamlit.title("My Parents New Healthy Dinner!");
 
-streamlit.title("Breakfast menu!");
-streamlit.title("---------------------");
-streamlit.title("Oats!");
-streamlit.title("Bread omlette");
-streamlit.title("Milk");
+streamlit.header("Breakfast menu!");
+streamlit.header("---------------------");
+streamlit.text("Oats!");
+streamlit.text("Bread omlette");
+streamlit.text("Milk");
